@@ -2,6 +2,7 @@ import { LightningElement, api } from 'lwc';
 import { bikes } from 'c/data';
 
 
+
 export default class Detail extends LightningElement {
 
     // Ensure changes are reactive when product is updated
