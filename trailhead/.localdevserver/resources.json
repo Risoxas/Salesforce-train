@@ -1,0 +1,53 @@
+{
+    "c272c22a59": {
+        "component://@webruntime/app@en-US": {
+            "dev": "944e0d91f0"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/bikeCard@en-US": {
+            "dev": "a38f967142"
+        }
+    },
+    "e25112d713": {
+        "component://@webruntime/app@en-US": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/bikeCard@en-US": {
+            "dev": "ff6571176e"
+        }
+    },
+    "11d35acafe": {
+        "component://@webruntime/app@en-US": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/bikeCard@en-US": {
+            "dev": "3b63b3d207"
+        },
+        "component://localdevserver/home@en-US": {
+            "dev": "c0efafa63a"
+        },
+        "component://c/list@en-US": {
+            "dev": "6b08a3ea60"
+        },
+        "component://c/data@en-US": {
+            "dev": "c77c43a918"
+        },
+        "component://c/tile@en-US": {
+            "dev": "80fd69d635"
+        },
+        "component://c/selector@en-US": {
+            "dev": "8971124314"
+        },
+        "component://c/detail@en-US": {
+            "dev": "2f59b3bb97"
+        }
+    }
+}
